@@ -12,7 +12,7 @@ workflow helloworld {
     meta {
         author : "Walt Shands"
         email : "wshands@gmail.com"
-        description: "This is a hello world example"
+        description: "This is a hello world example UPDATE 1 !!!"
      }
 }
 
@@ -23,7 +23,7 @@ task hello {
   command {
     echo "${greeting}"
   }
-  
+
   runtime {
     maxRetries: 1
     preemptible: 1
