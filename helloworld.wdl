@@ -12,7 +12,7 @@ workflow helloworld {
     meta {
         author : "Walt Shands"
         email : "wshands@gmail.com"
-        description: "This is a hello world example UPDATE 1 !!!"
+        description: "This is a hello world example UPDATE 2 !!!"
      }
 }
 
